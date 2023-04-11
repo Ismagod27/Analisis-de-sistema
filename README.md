@@ -29,6 +29,8 @@ Para comprender cómo funciona React es clave que nos situemos en un contexto, p
 * CSS: la apariencia de nuestra página web.
 * JavaScript: básicamente es el cerebro de nuestra página. Determina qué hacer en función de lo que sucede en ella.
 
+---
+
 ## Node.js
 
 Node.js utiliza el motor de JavaScript V8 de Google para interpretar el código y proporciona una serie de módulos y herramientas que permiten a los desarrolladores crear aplicaciones web escalables y de alto rendimiento. Algunas de las características más destacadas de Node.js incluyen:
@@ -37,7 +39,11 @@ Node.js utiliza el motor de JavaScript V8 de Google para interpretar el código 
 * Un sistema de módulos de código abierto que permite a los desarrolladores reutilizar el código y compartirlo con la comunidad de Node.js.
 * Una amplia gama de herramientas y bibliotecas de terceros disponibles a través de NPM (Node Package Manager), que facilitan la construcción de aplicaciones web complejas y de alta calidad.
 
+---
+
 ## API REST
+
+
 
 ##
 
