@@ -7,6 +7,10 @@
 
 ---
 
+Prueba de funcionamiento: 
+
+---
+
 ## Introducción
 
 Este archivo readme.md presenta la documentación de una app web diseñada para almacenar información de usuarios en una base de datos Postgres y Redis, realizar cálculos complejos en un worker y presentar los resultados en una página web a través de un cliente React. La app se ha encapsulado en Docker con seis servicios que incluyen nginx, postgres, api, redis, cliente-react y worker.
